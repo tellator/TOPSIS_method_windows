@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_decisions_6th_sem_TOPSIS", "Lab3_decisions_6th_sem_TOPSIS\Lab3_decisions_6th_sem_TOPSIS.csproj", "{C92590C4-EDB2-40AF-8EC3-6C2750E315B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92590C4-EDB2-40AF-8EC3-6C2750E315B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92590C4-EDB2-40AF-8EC3-6C2750E315B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92590C4-EDB2-40AF-8EC3-6C2750E315B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92590C4-EDB2-40AF-8EC3-6C2750E315B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30009E37-2784-4C4B-B211-44A8624B1E3A}
+	EndGlobalSection
+EndGlobal
